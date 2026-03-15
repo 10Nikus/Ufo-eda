@@ -2,7 +2,7 @@
 title: "Analiza występowania UFO"
 author: "Nikodem Kijas"
 date: "2026-01-15"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
